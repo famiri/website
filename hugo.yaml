@@ -116,7 +116,7 @@ params:
     # If you'd rather use Formspree:
     # formspree:
     #   enable: true
-    #   formId: xdkkpqpy
+    #   formId: xxxxxxxx
 
   footer:
     recentPosts:

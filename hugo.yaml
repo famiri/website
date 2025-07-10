@@ -1,0 +1,128 @@
+baseURL: "https://fatemehamiri.com"
+languageCode: "en-us"
+title: "Fatemeh Amiri"
+theme: hugo-profile
+
+enableRobotsTXT: true
+
+outputs:
+  home: ["HTML", "RSS", "JSON"]
+  page: ["HTML", "RSS"]
+
+pagination:
+  pagerSize: 3
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+params:
+  title: "Fatemeh Amiri"
+  description: "HR Tech & People Analytics Lead at Deloitte | Empowering Business through Data & Transformation"
+ # favicon: "/images/favicon.ico"
+  animate: true
+
+  navbar:
+    brandName: "Fatemeh Amiri"
+    stickyNavBar:
+      enable: true
+      showOnScrollUp: true
+    enableSeparator: false
+    menus:
+      disableAbout: false
+      disableExperience: false
+      disableEducation: false
+      disableProjects: false
+      disableAchievements: true
+      disableContact: false
+
+  hero:
+    enable: true
+    intro: "Hi, I'm"
+    title: "Fatemeh Amiri"
+    subtitle: "Empowering organizations through data-driven HR strategies"
+    content: "I'm a People Analytics and HR Tech leader at Deloitte, passionate about using data and digital tools to transform workforces."
+    image: /images/fatemeh-photo.jpeg
+    bottomImage:
+      enable: true
+    button:
+      enable: true
+      name: "Contact Me"
+      url: "#contact"
+      download: false
+      newPage: false
+    socialLinks:
+      fontAwesomeIcons:
+        - icon: fab fa-linkedin
+          url: https://www.linkedin.com/in/fatemehamiri/
+        - icon: fas fa-envelope
+          url: mailto:fapatron@gmail.com
+
+  about:
+    enable: true
+    title: "About Me"
+    image: "/images/fatemeh-photo.jpeg"
+    content: |-
+      I am a People Analytics and HR Tech professional with over 3 years of experience at Deloitte. I help global organizations harness data to drive talent strategy, improve employee experience, and achieve digital transformation goals. I’m passionate about leveraging analytics and technology to unlock the full potential of people and workplaces.
+    skills:
+      enable: true
+      title: "Areas of Expertise"
+      items:
+        - "People Analytics"
+        - "Digital HR Transformation"
+        - "Organizational Design"
+        - "Employee Engagement"
+        - "HRIS & Cloud Platforms"
+
+  experience:
+    enable: true
+    items:
+      - job: "People Analytics Lead, SAP, Senior Consultant"
+        company: "Deloitte"
+        companyUrl: "https://www2.deloitte.com"
+        date: "2022 - Present"
+        content: |-
+          Leading initiatives in HR Tech transformation and people data strategy. Focused on aligning digital HR capabilities with business objectives across industries including financial services and technology.
+
+  education:
+    enable: true
+    items:
+      - title: "Master’s Degree in Media informatics"
+        school:
+          name: "RWTH Aachen University"
+          url: "https://www.rwth-aachen.de/"
+        date: "2012 - 2015"
+
+
+  projects:
+    enable: true
+    items:
+      - title: Employee Engagement Dashboard
+        content: A visual and data-rich dashboard that helps organizations measure and act on employee engagement trends in real time.
+        image: /images/engagement-dashboard.png
+        badges:
+          - "People Analytics"
+          - "Power BI"
+        links:
+          - icon: fab fa-linkedin
+            url: https://www.linkedin.com/in/fatemehamiri/
+
+  contact:
+    enable: true
+    content: My inbox is always open! Whether you have a question or just want to say hi, I’ll get back to you as soon as I can.
+    btnName: Email Me
+    btnLink: mailto:fapatron@gmail.com
+    # If you'd rather use Formspree:
+    # formspree:
+    #   enable: true
+    #   formId: xdkkpqpy
+
+  footer:
+    recentPosts:
+      path: "blogs"
+      count: 3
+      title: Recent Posts
+      enable: false
+    socialNetworks:
+      linkedin: https://www.linkedin.com/in/fatemehamiri/

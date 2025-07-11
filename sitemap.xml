@@ -2,10 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://fatemehamiri.com/tags/agents/</loc>
+    <lastmod>2025-07-10T11:38:00+01:00</lastmod>
+  </url><url>
+    <loc>https://fatemehamiri.com/tags/ai/</loc>
+    <lastmod>2025-07-10T11:38:00+01:00</lastmod>
+  </url><url>
+    <loc>https://fatemehamiri.com/categories/blog/</loc>
+    <lastmod>2025-07-10T11:38:00+01:00</lastmod>
+  </url><url>
     <loc>https://fatemehamiri.com/categories/</loc>
+    <lastmod>2025-07-10T11:38:00+01:00</lastmod>
+  </url><url>
+    <loc>https://fatemehamiri.com/posts/tech-translator/</loc>
+    <lastmod>2025-07-10T11:38:00+01:00</lastmod>
   </url><url>
     <loc>https://fatemehamiri.com/</loc>
+    <lastmod>2025-07-10T11:38:00+01:00</lastmod>
+  </url><url>
+    <loc>https://fatemehamiri.com/posts/</loc>
+    <lastmod>2025-07-10T11:38:00+01:00</lastmod>
   </url><url>
     <loc>https://fatemehamiri.com/tags/</loc>
+    <lastmod>2025-07-10T11:38:00+01:00</lastmod>
   </url>
 </urlset>

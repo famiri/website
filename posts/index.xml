@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Fatemeh Amiri</title>
-    <link>https://fatemehamiri.com/</link>
-    <description>Recent content on Fatemeh Amiri</description>
+    <title>Posts on Fatemeh Amiri</title>
+    <link>https://fatemehamiri.com/posts/</link>
+    <description>Recent content in Posts on Fatemeh Amiri</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 10 Jul 2025 11:38:00 +0100</lastBuildDate>
-    <atom:link href="https://fatemehamiri.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://fatemehamiri.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Do we have enough Tech translators in place?</title>
       <link>https://fatemehamiri.com/posts/tech-translator/</link>

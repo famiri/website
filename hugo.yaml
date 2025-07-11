@@ -51,8 +51,8 @@ params:
     enable: true
     intro: "Hi, I'm"
     title: "Fatemeh Amiri"
-    subtitle: "Empowering organizations through data-driven HR strategies"
-    content: "I'm a People Analytics and HR Tech leader at Deloitte, passionate about using data and digital tools to transform workforces."
+    subtitle: "People Analytics strategist & Digital Transformation Lead|Career Coach |Speaker & Author"
+    content: "I advise forward-thinking companies on HR-Tech, AI, and digital transformation while coaching individuals to grow their careers and lead with confidence in the future of work."
     image: /images/fatemeh-photo.jpeg
     bottomImage:
       enable: true

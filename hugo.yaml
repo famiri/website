@@ -20,7 +20,7 @@ markup:
 params:
   title: "Fatemeh Amiri"
   description: "HR Tech & People Analytics Lead at Deloitte | Empowering Business through Data & Transformation"
- # favicon: "/images/favicon.ico"
+  favicon: "/images/favicon.png"
   animate: true
 
   navbar:

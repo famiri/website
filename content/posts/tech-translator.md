@@ -5,12 +5,8 @@ title = 'Do we have enough Tech translators in place?'
 description = "Right now, AI is everywhere, copilots, smart assistants, agents. But in most organizations, the real question isn’t: What can AI do? It’s: Who makes sure people can actually use it?"
 tags = ["ai","agents",]
 categories = ["blog"]
-image = "/images/fatemeh-pic-1.jpeg" 
+image = "/images/fatemeh-pic-1.1.png" 
 +++
-
-![Do we have enough Tech translators in place](/images/fatemeh-pic-1.jpeg)
-
-## Do we have enough Tech translators in place? 
 
 Right now, AI is everywhere, copilots, smart assistants, agents.
 

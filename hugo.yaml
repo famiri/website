@@ -29,13 +29,23 @@ params:
       enable: true
       showOnScrollUp: true
     enableSeparator: false
+    disableSearch: false
+    searchPlaceholder: "Search"
     menus:
       disableAbout: false
       disableExperience: false
       disableEducation: false
-      disableProjects: false
+      disableProjects: true
       disableAchievements: true
       disableContact: false
+
+Menus:
+  main:
+    - identifier: posts
+      name: Posts
+      title: Posts
+      url: /posts
+      weight: 1
 
   hero:
     enable: true
@@ -123,6 +133,8 @@ params:
       path: "blogs"
       count: 3
       title: Recent Posts
-      enable: false
+      enable: true
+      disableFeaturedImage: false
     socialNetworks:
       linkedin: https://www.linkedin.com/in/fatemehamiri/
+      instagram: https://www.instagram.com/fateme.amr

@@ -75,20 +75,17 @@ params:
     image: "/images/fatemeh-photo.jpeg"
     content: "My Passion: People. Data. Technology. I am a forward-thinking People& Analytics leader passionate about using data-driven insights and AI-powered people solutions to drive business transformation.
 
-With over a decade of experience in IT, People Analytics, and HR Tech, I have led strategic initiatives that empower organizations to make smarter, data-backed workforce decisions. My journey has taken me from working in Tech and IT to founding an AI-based HR Tech startup and now driving Analytics transformation at Deloitte.
+With over a decade of experience in IT, People Analytics, and HR Tech, I have led strategic initiatives that empower organizations to make smarter, data-backed workforce decisions. My journey has taken me from working in Tech and IT to founding an AI-based HR Tech startup and now driving Analytics transformation at Deloitte."
 
-🔹 Strategic Impact: I work with global clients to design and implement enterprise-wide Analytics solutions, integrating SAP, AI, and HR Tech to optimize workforce strategy.
-🔹 Thought Leadership: As the Author of IU International’s Course Book on People Analytics, I help the next generation of HR professionals unlock the power of data in decision-making.
-🔹 Coaching & Mentorship: Outside of my role, I am passionate about coaching professionals in People Analytics, career growth, and leveraging technology to shape the future of HR."
+
+
     skills:
       enable: true
       title: "Areas of Expertise"
       items:
-        - "People Analytics"
-        - "Digital HR Transformation"
-        - "Organizational Design"
-        - "Employee Engagement"
-        - "HRIS & Cloud Platforms"
+        - "🔹 Strategic Impact: I work with global clients to design and implement enterprise-wide Analytics solutions, integrating SAP, AI, and HR Tech to optimize workforce strategy."
+        - "🔹 Thought Leadership: As the Author of IU International’s Course Book on People Analytics, I help the next generation of HR professionals unlock the power of data in decision-making."
+        - "🔹 Coaching & Mentorship: Outside of my role, I am passionate about coaching professionals in People Analytics, career growth, and leveraging technology to shape the future of HR."
 
   experience:
     enable: true

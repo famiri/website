@@ -83,10 +83,13 @@ With over a decade of experience in IT, People Analytics, and HR Tech, I have le
       enable: true
       title: "Areas of Expertise"
       items:
-        - "🔹 Strategic Impact: I work with global clients to design and implement enterprise-wide Analytics solutions, integrating SAP, AI, and HR Tech to optimize workforce strategy."
-        - "🔹 Thought Leadership: As the Author of IU International’s Course Book on People Analytics, I help the next generation of HR professionals unlock the power of data in decision-making."
-        - "🔹 Coaching & Mentorship: Outside of my role, I am passionate about coaching professionals in People Analytics, career growth, and leveraging technology to shape the future of HR."
-
+        - "People Analytics Strategy"        
+        - "Digital Transformation"
+        - "HR Tech and AI in HR"
+        - "Data Driven Employee Experience Design"
+        - "Data Driven Leadership"
+        - "Career Growth & Transition Coaching"
+        
   experience:
     enable: true
     items:

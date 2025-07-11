@@ -17,6 +17,14 @@ markup:
     renderer:
       unsafe: true
 
+Menus:
+  main:
+    - identifier: posts
+      name: Posts
+      title: Posts
+      url: /posts
+      weight: 1      
+
 params:
   title: "Fatemeh Amiri"
   description: "HR Tech & People Analytics Lead at Deloitte | Empowering Business through Data & Transformation"
@@ -38,14 +46,6 @@ params:
       disableProjects: true
       disableAchievements: true
       disableContact: false
-
-Menus:
-  main:
-    - identifier: posts
-      name: Posts
-      title: Posts
-      url: /posts
-      weight: 1
 
   hero:
     enable: true

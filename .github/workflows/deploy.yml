@@ -29,4 +29,5 @@ jobs:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./public
         publish_branch: gh-pages
-        
+        user_name: Fatemeh Amiri
+        user_email: fapatron@gmail.com

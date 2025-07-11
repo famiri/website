@@ -113,16 +113,16 @@ params:
   #       image: /images/engagement-dashboard.png
   #       badges:
   #         - "People Analytics"
-  #         - "Power BI"
+  #         - "SAP"
   #       links:
   #         - icon: fab fa-linkedin
   #           url: https://www.linkedin.com/in/fatemehamiri/
 
   contact:
     enable: true
-    content: My inbox is always open! Whether you have a question or just want to say hi, I’ll get back to you as soon as I can.
+    content: My inbox is always open! Whether you have a question, want a mentorship or consulting session or just want to say hi, I’ll get back to you as soon as I can.
     btnName: Email Me
-    btnLink: mailto:fapatron@gmail.com
+    btnLink: mailto:Email@FatemehAmiri.com
     # If you'd rather use Formspree:
     # formspree:
     #   enable: true

@@ -98,6 +98,12 @@ params:
         date: "2022 - Present"
         content: |-
           Leading initiatives in HR Tech transformation and people data strategy. Focused on aligning digital HR capabilities with business objectives across industries including financial services and technology.
+      - job: "People Analytics Lead, SAP, Senior Consultant"
+        company: "Deloitte"
+        companyUrl: "https://www2.deloitte.com"
+        date: "2022 - Present"
+        content: |-
+          Leading initiatives in HR Tech transformation and people data strategy. Focused on aligning digital HR capabilities with business objectives across industries including financial services and technology. 
 
   education:
     enable: true

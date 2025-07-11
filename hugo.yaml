@@ -67,7 +67,7 @@ params:
         - icon: fab fa-linkedin
           url: https://www.linkedin.com/in/fatemehamiri/
         - icon: fas fa-envelope
-          url: mailto:Email@FatemehAmiri.com
+          url: mailto: Email@FatemehAmiri.com
 
   about:
     enable: true

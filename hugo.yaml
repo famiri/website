@@ -80,7 +80,7 @@ params:
   
     skills:
       enable: true
-      title: "<b>Areas of Expertise </b> "
+      title: "<strong>Areas of Expertise </strong> "
       items:
         - "People Analytics Strategy"        
         - "Digital Transformation"
